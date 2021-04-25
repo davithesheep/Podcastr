@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    <img alt="Podcastr" title="Podcastr" src="public/logo.svg" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
+  <img alt="" src="public/favicon.png" width="160px">
 </p>
 
 ## 🧪 Technologies
