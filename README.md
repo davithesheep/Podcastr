@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/podcastr.git && cd podcastr
+$ git clone https://github.com/davithesheep/podcastr.git && cd podcastr
 ```
 
 Follow the steps below
